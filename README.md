@@ -1,3 +1,9 @@
+
+Calculator app from the React Native course
+
+https://github.com/leoCarrillo-BTS/RN_calculadora/assets/60411044/aa90684f-089b-4270-9e91-2a126d9bad64
+
+----
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
